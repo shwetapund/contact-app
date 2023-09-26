@@ -1,0 +1,15 @@
+.contact-card{
+    width:400px;
+    padding-left: 10px;
+    border: 2px solid #a8dcf0;
+    background-color: white;
+    margin: 15px auto;
+  
+}
+.name{
+    font-size: 25px;
+    font-weight: bold;
+    padding:5px;
+    margin: 0;
+}
+

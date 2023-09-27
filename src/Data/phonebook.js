@@ -1,11 +1,11 @@
 export const phonebook = [
     {
         name: 'shweta💖',
-        mobile: 8208793074
+        mobile: 8238758368
     },
     {
         name: 'shital💛',
-        mobile: 9309382528
+        mobile: 9339348703
     },
     {
         name: 'datta🤩',
@@ -13,7 +13,7 @@ export const phonebook = [
     },
     {
         name: 'Vaibhavi mam 😊',
-        mobile: 9822481389
+        mobile: 7343873587
     },
     {
         name: 'suraj sir 🤗',
@@ -29,10 +29,10 @@ export const phonebook = [
     },
     {
         name: 'rahul 😊',
-        mobile: 8788861275
+        mobile: 9893328436
     },
     {
         name: 'Anand 🙌',
-        mobile: 7020407429
+        mobile: 7892287874
     }
 ]

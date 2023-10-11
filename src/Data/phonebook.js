@@ -34,5 +34,13 @@ export const phonebook = [
     {
         name: 'Anand 🙌',
         mobile: 7892287874
+    },
+    {
+        name:'Nikita',
+        mobile:2385906846
+    },
+    {
+        name:'Yogita',
+        mobile:3908904614
     }
 ]
